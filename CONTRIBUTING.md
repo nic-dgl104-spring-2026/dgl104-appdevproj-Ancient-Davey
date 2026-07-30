@@ -34,16 +34,17 @@ Examples of future features include:
 - Analytics dashboard
 
 
-## Development Setup
+## Installation
 
 To run this project locally:
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Connect the project to Firebase.
-4. Add the `google-services.json` file to the `app` folder.
-5. Sync the Gradle files.
-6. Build and run the application on an emulator or Android device.
-
+1. Download the ZIP file.
+2. Extract the file's contents
+3. Open Android Studio.
+4. Click File -> Open
+5. Find the project and open the project using settings.gradle.kts
+6. Connect the project to Firebase.
+7. Run the application.
+8. 
 ## Testing
 
 Before submitting changes:
