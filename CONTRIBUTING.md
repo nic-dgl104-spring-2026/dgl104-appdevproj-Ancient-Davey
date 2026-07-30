@@ -44,7 +44,8 @@ To run this project locally:
 5. Find the project and open the project using settings.gradle.kts
 6. Connect the project to Firebase.
 7. Run the application.
-8. 
+
+
 ## Testing
 
 Before submitting changes:
